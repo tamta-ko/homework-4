@@ -1,0 +1,389 @@
+.nav-ul{
+    list-style: none;
+    font-family: "poppins-unilab"; 
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+
+@font-face {
+    font-family: "poppins-unilab";
+    src: url(../Fonts/Poppins-MediumItalic.ttf);
+}
+@font-face {
+    font-family: "open-sans";
+    src: url(../Fonts/OpenSans-MediumItalic.ttf);
+}
+.home{
+    margin-left: 537px;
+}
+li{
+    display: inline;
+    font-family: "poppins-unilab";
+}
+.about, .blog, .contact{
+    margin-left: 66px;
+}
+header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+.div{
+    width: 333px;
+    height: 487px;
+    border: 1px solid black;
+    padding: 11px;
+    display: inline-block;
+}
+.main-title{
+    margin-top: 5px;
+    font-weight: bold;
+    font-family: "poppins-unilab";
+}
+.main-description{
+    margin-top: 13px;
+    font-family: "poppins-unilab";
+}
+.see-more{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 224px;
+    font-size: 12px;
+    font-family: "poppins-unilab";
+    border: 1px solid black;
+    width: 118.31px;
+    height: 30.34px;
+    border-radius: 4px;
+}
+section{
+    margin-top: 160px;
+    margin-bottom: 237px;
+}
+.first{
+    margin-left: 126px;
+}
+.second{
+    margin-left: 112px;
+}
+.third{
+    margin-left: 90px;
+}
+img{
+    width: 100%;
+}
+.contact-title{
+    text-align: center;
+    margin-top: 183px;
+    font-size: 40px;
+    color: #7D0000;
+}
+.about-title{
+    text-align: center;
+    margin-top: 183px;
+    font-size: 40px;
+    color: #7D0000;
+}
+.about-p{
+    position: absolute;
+    font-size: 25px;
+    font-family: "open-sans";
+    line-height: 41.25px;
+}
+.p-1{
+    font-weight: 600;
+    margin-right: 664px;
+    margin-top: 296px;
+    margin-left: 126px;
+}
+.p-2{
+margin-top: 108px;
+margin-left: 434px;
+font-weight: 400;
+}
+.about-pic{
+    position: absolute;
+    margin-left: 835px;
+    margin-top: 185px;
+    margin-right: 105px;
+}
+.test-1, .test-2, .test-3{
+    float: left;
+}
+.test-1{
+    margin-left: 131px;
+    margin-top: 115px;
+}
+.test-2{
+    margin-left: 187px;
+    margin-top: 115px;
+}
+.test-3{
+    margin-left: 162px;
+    margin-top: 115px;
+}
+.g-title{
+    font-size: 24px;
+    text-align: center;
+    margin-top: 72px;
+    font-weight: bold;
+}
+.more-details{
+    text-align: right;
+    position: absolute;
+    font-size: 16px;
+    right: 0;
+    margin-top: 238.6px;
+    text-decoration: underline;
+    line-height: 21.12px;
+}
+.youbuy{
+    font-size: 26px;
+    margin-left: 126px;
+}
+.contact-p1{
+    margin-top: 119px;
+    margin-left: 280px;
+    font-size: 25px;
+    line-height: 34px;
+    font-family: "open-sans";
+    float: left;
+}
+.contact-p2{
+    margin-top: 119px;
+    margin-left: 324px;
+    font-size: 25px;
+    line-height: 34px;
+    font-family: "open-sans";
+    float: left;
+}
+.pic-map{
+    position: absolute;
+    margin-left: 266px;
+    margin-top: 210px;
+}
+.blog-title{
+    margin-top: 47px;
+    margin-left: 94px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.blog-search{
+    margin-top: 59px;
+    margin-left: 1033px;
+    font-size: 12px;
+    color: black;
+    opacity: 50%;
+    border: 1px solid black;
+    border-radius: 2px;
+    position: absolute;
+    width: 369px;
+    height: 47px;
+    text-align: center;
+    vertical-align: middle;
+}
+.b-1, .b-2, .b-3, .b-4{
+    display: inline-block;
+    line-height: 22px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.b-1{
+    margin-top: 93px;
+    margin-left: 447px;
+    position: absolute;
+}
+.b-2{
+    margin-top: 93px;
+    margin-left: 560px;
+    position: absolute;
+}
+.b-3{
+    margin-top: 93px;
+    margin-left: 714px;
+}
+.b-4{
+    margin-left: 65px;
+}
+.blog1{
+    position: absolute;
+    margin-left: 94px;
+}
+.blog2{
+    position: absolute;
+    margin-top: 413px;
+    margin-left: 94px;
+}
+.blog1-desc{
+    position: absolute;
+    margin-left: 424px;
+    border: 0px solid;
+    background-color: #E5EBE5;
+    width: 918px;
+    height: 228px;
+}
+.desc1{
+    font-size: 18px;
+    font-weight: bold;
+}
+.desc2{
+    font-size: 14px;
+    margin-top: 32px;
+    margin-right: 130px;
+    line-height: 17px;
+    color: #474747;
+}
+.blog2-desc{
+    position: absolute;
+    margin-left: 424px;
+    margin-top: 413px;
+    border: 0px solid;
+    background-color: #E5EBE5;
+    width: 918px;
+    height: 228px;
+}
+.desc3{
+    font-size: 18px;
+    font-weight: bold;
+}
+.desc4{
+    font-size: 14px;
+    margin-top: 35px;
+    margin-right: 130px;
+    line-height: 16.8px;
+    color: #474747;
+}
+.read1{
+    position: absolute;
+    margin-left: 1168px;
+    margin-top: 242px;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 174px;
+    height: 40px;
+    vertical-align: middle;
+    text-decoration: underline;
+}
+.read2{
+    position: absolute;
+    margin-left: 1168px;
+    margin-top: 661px;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 174px;
+    height: 40px;
+    vertical-align: middle;
+    text-decoration: underline;
+}
+.profile{
+    position: absolute;
+    width: 170px;
+    height: 170.81px;
+    top: 256px;
+    left: 206px;
+}
+.profile-name{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 444px;
+    margin-top: 50px;
+    font-family: "poppins-unilab";
+}
+.product-des{
+    position: absolute;
+    font-size: 22px;
+    margin-top: 95px;
+    margin-left: 444px;
+    font-family: "poppins-unilab";
+    color: #546CCC;
+}
+.profile-about{
+    position: absolute;
+    font-size: 24px;
+    margin-top: 150px;
+    margin-left: 245px;
+    line-height: 36px;
+    font-family: "poppins-unilab";
+    text-transform: capitalize;
+    border-bottom: 1px solid #7D0000;
+}
+.email{
+    position: absolute;
+    margin-left: 237px;
+    margin-top: 269px;
+    font-size: 20px;
+    font-family: "poppins-unilab";
+    text-transform: capitalize;
+    line-height: 30px;
+    font-weight: bold;
+}
+.adress{
+    position: absolute;
+    margin-left: 237px;
+    margin-top: 329px;
+    font-size: 20px;
+    font-family: "poppins-unilab";
+    text-transform: capitalize;
+    line-height: 30px;
+    font-weight: bold;
+}
+.gender{
+    position: absolute;
+    margin-left: 237px;
+    margin-top: 389px;
+    font-size: 20px;
+    font-family: "poppins-unilab";
+    text-transform: capitalize;
+    line-height: 30px;
+    font-weight: bold;
+}
+.p-details1{
+    position:absolute;
+    margin-left: 462px;
+    margin-top: 269px;
+    font-size: 20px;
+    font-family: "poppins-unilab";
+    text-transform: capitalize;
+    line-height: 30px;
+    font-weight: bold;
+}
+.p-details2{
+    position: absolute;
+    margin-top: 329px;
+    margin-left: 462px;
+    font-size: 20px;
+    font-family: "poppins-unilab";
+    text-transform: capitalize;
+    line-height: 30px;
+    font-weight: bold;
+}
+.p-details3{
+    position: absolute;
+    margin-top: 389px;
+    margin-left: 462px;
+    font-size: 20px;
+    font-family: "poppins-unilab";
+    text-transform: capitalize;
+    line-height: 30px;
+    font-weight: bold;
+}
+.profile-button{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 988px;
+    font-size: 25px;
+    color: white;
+    border: 1px solid white;
+    background-color: #87AC87;
+    width: 265px;
+    height: 70px;
+    border-radius: 10px;
+}
+.profile-icon{
+    width: 40px;
+    height: auto;
+    margin-left: 1298px;
+    margin-top: -40px;
+}
